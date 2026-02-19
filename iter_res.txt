@@ -1,0 +1,44 @@
+ii=0
+fitting conf mat:
+array([[44,  0,  0],
+       [ 0, 22,  0],
+       [ 0,  0, 77]], dtype=int64)
+ood conf mat:
+array([[143,   0],
+       [  1,  49]], dtype=int64)
+
+AUC:
+0.9998601398601399
+
+ii=1
+fitting conf mat:
+array([[50,  0,  0],
+       [ 0, 22,  0],
+       [ 0,  0, 77]], dtype=int64)
+ood conf mat:
+array([[149,   0],
+       [  8,  36]], dtype=int64)
+AUC:
+0.9635448444173277
+
+ii=2
+fitting conf mat:
+array([[50,  0,  0],
+       [ 0, 44,  0],
+       [ 0,  0, 77]], dtype=int64)
+ood conf mat:
+array([[171,   0],
+       [  8,  14]], dtype=int64)
+AUC:
+0.7910685805422647
+
+ii=3
+fitting conf mat:
+array([[50,  0,  0],
+       [ 0, 44,  0],
+       [ 0,  0, 22]], dtype=int64)
+ood conf mat:
+array([[114,   2],
+       [ 12,  65]], dtype=int64)
+AUC:
+0.9693237796686072
