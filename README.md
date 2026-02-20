@@ -45,15 +45,19 @@ The `filled_images/` directory contains subfolders for each Limnonectes clade, w
 ## Results
 Results from cross-validation and OOD detection experiments are provided in the CSV and TXT files. For detailed results and discussion, refer to the paper.
 
+
 ## Citation
 If you use this code or data, please cite the following paper:
 ```bibtex
 @article{limnonectes2024,
-  title={Deep Neural Network Identification of Limnonectes Species and New Class Detection Using Image Data},
-  journal={Statistical Analysis and Data Mining},
-  year={2024},
-  doi={10.1007/s13253-023-00592-9},
-  url={https://link.springer.com/article/10.1007/s13253-023-00592-9}
+	title={Deep Neural Network Identification of Limnonectes Species and New Class Detection Using Image Data},
+	journal={Statistical Analysis and Data Mining},
+	year={2024},
+	doi={10.1007/s13253-023-00592-9},
+	url={https://link.springer.com/article/10.1007/s13253-023-00592-9}
 }
 ```
+
+## Acknowledgement
+This README was generated with the assistance of AI tools. However, the associated paper was written entirely by human authors without AI-generated content.
 
