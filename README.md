@@ -21,7 +21,7 @@ This project provides code and data for training and evaluating deep neural netw
 - `Frogs_QDALDA_fitting.ipynb` — QDA/LDA fitting and analysis
 - `lib_RMD_v2.py` — Supporting Python library for Mahalanobis distance and LDA/QDA calculations
 - `Frogs_Fewer_CV_res.csv` — Example results from cross-validation
-- `iter_res.txt` — Iterative results and confusion matrices
+- `iter_res.txt` — Iterative results and confusion matrices for QDA/LDA fitting
 - `filled_images/` — Image data for each frog clade (subfolders per clade)
 
 ## Installation
